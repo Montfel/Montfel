@@ -6,7 +6,8 @@
 
 ## Hello, Devs!
 
-Tenho 25 anos, moro em Aracaju/SE e sou apaixonado por tecnologia e principalmente por desenvolvimento mobile.
+#### Tenho 25 anos, moro em Aracaju/SE e sou apaixonado por tecnologia e principalmente por desenvolvimento mobile.
+
 </br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
