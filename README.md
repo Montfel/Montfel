@@ -32,7 +32,7 @@
  <p align="left">🤖 Aqui você irá encontrar muitos projetos com Android nativo, como por exemplo o Desaglomere, que tem o objetivo de facilitar reservas de ambientes em condomínios;</p>
  <p align="left">🌎 Meu nome como desenvolvedor na Google Play Store é Montfel;</p>
   
- <p align="left">📚 Estou em transição de carreira, pois me formei em Engenharia Civil, mas sempre fui aficionado por tecnologia, o que me fez mudar de área e atualmente curso o 6º período de Sistemas de Informação na <a href="https://www.unit.br/">Universidade Tiradentes</a>;</p>
+ <p align="left">📚 Atualmente curso o 6º período de Sistemas de Informação na <a href="https://www.unit.br/">Universidade Tiradentes</a>;</p>
  <p align="left">🎮 Como hobbies, gosto de jogar no meu Xbox, além de assistir filmes e séries.</p>
 </div>
 
