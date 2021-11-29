@@ -19,6 +19,7 @@
   <img align="center" alt="Java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Kotlin" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Firebase" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Git" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
 </div>
 
 </br>
