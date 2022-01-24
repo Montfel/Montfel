@@ -6,7 +6,7 @@
 
 ## Hello, Devs!
 
-#### Tenho 25 anos, moro em Aracaju/SE e sou apaixonado por tecnologia e principalmente por desenvolvimento mobile.
+#### Tenho 26 anos, moro em Aracaju/SE e sou apaixonado por tecnologia e principalmente por desenvolvimento mobile.
 
 </br>
 
@@ -27,7 +27,7 @@
 
 <div display="inline-block">
  <p align="left">👨‍💻 Atualmente trabalho no <a href="https://www.studiosol.com.br/">Studio Sol</a> como Desenvolvedor Android Júnior;</p>
- <p align="left">☕ Tenho estudado Java e iniciei meus estudos para desenvolver apps para Android;</p>
+ <p align="left">☕ Tenho estudado Java e Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
  <p align="left">🤖 Aqui você irá encontrar muitos projetos com Android nativo, como por exemplo o Desaglomere, que tem o objetivo de facilitar reservas de ambientes em condomínios;</p>
  <p align="left">🌎 Meu nome como desenvolvedor na Google Play Store é Montfel;</p>
   
