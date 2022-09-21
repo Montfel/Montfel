@@ -30,7 +30,7 @@
  <p align="left">🤖 Aqui você irá encontrar muitos projetos com Android nativo, como por exemplo a Pokédex;</p>
  <p align="left">🌎 Meu nome como desenvolvedor na Google Play Store é Montfel;</p>
   
- <p align="left">📚 Atualmente curso o 6º período de Sistemas de Informação na <a href="https://www.unit.br/">Universidade Tiradentes</a>;</p>
+ <p align="left">📚 Atualmente curso o penúltimo período de Sistemas de Informação na <a href="https://www.unit.br/">Universidade Tiradentes</a>;</p>
  <p align="left">🎮 Como hobbies, gosto de jogar no meu Xbox, além de assistir filmes e séries.</p>
 </div>
 
