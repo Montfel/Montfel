@@ -5,18 +5,18 @@
 
 ## Hello, Devs!
 
-#### Tenho 26 anos, moro em Aracaju/SE e sou apaixonado por tecnologia e principalmente por desenvolvimento mobile.
+#### I'm 26 years old, I live in Aracaju/SE and I'm passionate about technology and especially mobile development.
 
 </br>
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Technologies and Tools:
 
 </br>
 
 <div style="display: inline_block">
   <img align="center" alt="Android" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
+   <img align="center" alt="Kotlin" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Kotlin" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Firebase" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Git" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
 </div>
@@ -25,13 +25,13 @@
 </br>
 
 <div display="inline-block">
- <p align="left">👨‍💻 Atualmente trabalho no <a href="https://www.studiosol.com.br/">Studio Sol</a> como Desenvolvedor Android Júnior;</p>
- <p align="left">☕ Tenho estudado Java e Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
- <p align="left">🤖 Aqui você irá encontrar muitos projetos com Android nativo, como por exemplo a Pokédex;</p>
- <p align="left">🌎 Meu nome como desenvolvedor na Google Play Store é Montfel;</p>
+ <p align="left">👨‍💻 I currently work at <a href="https://www.studiosol.com.br/">Studio Sol</a> as an Android Developer</p>
+ <p align="left">☕ I have studied Kotlin and I have some projects developed in Android</p>
+ <p align="left">🤖 Here you will find many projects with native Android, such as the Pokédex</p>
+ <p align="left">🌎 My name as a developer on the Google Play Store is Montfel</p>
   
- <p align="left">📚 Atualmente curso o penúltimo período de Sistemas de Informação na <a href="https://www.unit.br/">Universidade Tiradentes</a>;</p>
- <p align="left">🎮 Como hobbies, gosto de jogar no meu Xbox, além de assistir filmes e séries.</p>
+ <p align="left">📚 I am currently studying the penultimate period of Information Systems at <a href="https://www.unit.br/">Tiradentes University</a></p>
+ <p align="left">🎮 As hobbies, I like to play games on my Xbox as well as watch movies and series</p>
 </div>
 
 </br>
