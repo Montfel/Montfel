@@ -27,7 +27,7 @@
 <div display="inline-block">
  <p align="left">👨‍💻 I currently work at <a href="https://www.studiosol.com.br/">Studio Sol</a> as an Android Developer</p>
  <p align="left">☕ I have studied Kotlin and I have some projects developed in Android</p>
- <p align="left">🤖 Here you will find many projects with native Android, such as the Pokédex</p>
+ <p align="left">🤖 Here you will find many projects with native Android, such as the Pokfinder</p>
  <p align="left">🌎 My name as a developer on the Google Play Store is Montfel</p>
   
  <p align="left">📚 I am currently studying the penultimate period of Information Systems at <a href="https://www.unit.br/">Tiradentes University</a></p>
