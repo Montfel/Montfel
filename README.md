@@ -5,7 +5,7 @@
 
 ## Hello, Devs!
 
-#### I'm 26 years old, I live in Aracaju/SE and I'm passionate about technology and especially mobile development.
+#### I'm 26 years old, I live in Aracaju/Brazil and I'm passionate about technology and especially mobile development.
 
 </br>
 
