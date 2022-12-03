@@ -1,8 +1,5 @@
 # Luís Felipe Monteiro
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-felipe-monteiro/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemonteirose@gmail.com)
-
 ## Hello, Devs!
 
 #### I'm 26 years old, I live in Aracaju/Brazil and I'm passionate about technology and especially mobile development.
