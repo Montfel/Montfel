@@ -27,7 +27,7 @@
  <p align="left">🤖 Here you will find many projects with native Android, such as the Pokfinder</p>
   <p align="left">🌎 My name as a developer on the Google Play Store is <b>Montfel</b></p>
   
- <p align="left">📚 I am currently studying the penultimate period of Information Systems at <a href="https://www.unit.br/">Tiradentes University</a></p>
+ <p align="left">📚 I am currently studying the last period of Information Systems at <a href="https://www.unit.br/">Tiradentes University</a></p>
  <p align="left">🎮 As hobbies, I like to play games on my Xbox as well as watch movies and series</p>
 </div>
 
