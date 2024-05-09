@@ -22,9 +22,8 @@
 </br>
 
 <div display="inline-block">
- <p align="left">👨‍💻 I currently work at <a href="https://www.toroinvestimentos.com.br/?a=b">Toro Investimentos</a> as an Android Developer</p>
  <p align="left">🤖 Here you will find many projects with native Android, such as the Pokfinder and GamerGuide</p>
-  <p align="left">🌎 My name as a developer on the Google Play Store is <b>Montfel</b></p>
+ <p align="left">🌎 My name as a developer on the Google Play Store is <b>Montfel</b></p>
   
  <p align="left">📚 I am graduated in Information Systems at <a href="https://www.unit.br/">Tiradentes University</a></p>
  <p align="left">🎮 As hobbies, I like to play games on my Xbox as well as watch movies and series</p>
